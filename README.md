@@ -1,8 +1,8 @@
-# Cloud Brust System
-This is my First Application (Portfolio app) which i made using Android Studio.
+# Cloud Burst System
+This is my First Application (Portfolio app), which I made using Android Studio.
 
 ## 📌 Tech Stack
-HTML , CSS, Python, Jupyter Notebook, Random forest, XG Boost
+HTML, CSS, Python, Jupyter Notebook, Random Forest, XG Boost
 
 ## Some Glimpse 🤩 :
 <table>
@@ -22,7 +22,7 @@ HTML , CSS, Python, Jupyter Notebook, Random forest, XG Boost
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+Can reach me through the handles below. If you want to contact me
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/g-rahul-871002255/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
