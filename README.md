@@ -26,6 +26,6 @@ Can reach me through the handles below. If you want to contact me
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/g-rahul-871002255/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Rahul
+© 2023 Rahul
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
