@@ -14,8 +14,8 @@ HTML , CSS, Python, Jupyter Notebook, Random forest, XG Boost
 <div align="center">
 <table>
 <tr>
-<td><img src = "(https://user-images.githubusercontent.com/108818360/188401020-69357d33-7c60-445e-a438-658bf77fd415.png](https://res.cloudinary.com/phantomping/image/upload/v1747293303/t36qsxbqov58sxkojtmc.png)" width="200"></td>
-<!-- <td><img src = "https://user-images.githubusercontent.com/108818360/188401033-e5e8a295-d27e-4a86-a3b5-cc90a1ac4460.png" width="200"></td> -->
+<!-- <td><img src = "(https://user-images.githubusercontent.com/108818360/188401020-69357d33-7c60-445e-a438-658bf77fd415.png](https://res.cloudinary.com/phantomping/image/upload/v1747293303/t36qsxbqov58sxkojtmc.png)" width="200"></td>
+<!-- <td><img src = "https://user-images.githubusercontent.com/108818360/188401033-e5e8a295-d27e-4a86-a3b5-cc90a1ac4460.png" width="200"></td> --> -->
 </table>
 </tr>
 </div>
