@@ -8,7 +8,7 @@ HTML, CSS, Python, Jupyter Notebook, Random Forest, XG Boost
 <table>
  <tr>
   <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317148/Github%20Project/k1lzrdquf0cwrngl2tqs.png" width="500"></td>
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317074/Github%20Project/rvexadx1tufo2ioaspnc.png" width="500"></td>
+<!--   <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317074/Github%20Project/rvexadx1tufo2ioaspnc.png" width="500"></td> -->
  </tr>
 </table>
 <div align="center">
