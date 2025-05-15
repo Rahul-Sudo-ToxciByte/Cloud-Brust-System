@@ -1,5 +1,5 @@
 # Cloud Burst System
-This is my First Application (Portfolio app), which I made using Android Studio.
+Let's Predict the Future Weather.
 
 ## 📌 Tech Stack
 HTML, CSS, Python, Jupyter Notebook, Random Forest, XG Boost
